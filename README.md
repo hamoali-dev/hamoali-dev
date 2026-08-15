@@ -4,12 +4,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Learning+Python+%F0%9F%90%8D;Building+AI+Projects+%F0%9F%A4%96;Exploring+Artificial+Intelligence+%F0%9F%A7%A0;Learning+%C2%B7+Building+%C2%B7+Improving+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Learning+Python;Building+AI+Projects;Exploring+Artificial+Intelligence;Learning+%C2%B7+Building+%C2%B7+Improving" />
 
 <br><br>
 
 <a href="https://github.com/hamoali-dev">
-<img src="https://img.shields.io/badge/GitHub-alqenawy9-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a96e&labelColor=111111"/>
+<img src="https://img.shields.io/badge/GitHub-hamoali--dev-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a96e&labelColor=111111"/>
 </a>
 
 </div>
