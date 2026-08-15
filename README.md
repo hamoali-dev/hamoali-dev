@@ -66,14 +66,14 @@ Oversized t-shirt e-commerce brand built with Shopify.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alqenawy9/alqenawy9/output/github-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/hamoali-dev/hamoali-dev/output/github-snake-dark.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alqenawy9/alqenawy9/output/github-snake.svg">
+    srcset="https://raw.githubusercontent.com/hamoali-dev/hamoali-dev/output/github-snake.svg">
 
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/alqenawy9/alqenawy9/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/hamoali-dev/hamoali-dev/output/github-snake.svg"
     width="85%">
 </picture>
 
