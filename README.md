@@ -41,8 +41,6 @@ building real projects, and exploring Artificial Intelligence.
 ### 🐍 Python Learning Lab
 A growing collection of Python practice exercises and mini-projects, built while learning the language from scratch.
 
-### ❤️ Animated Heart
-A creative-coding project in Python — an animated heart that displays "HAMO" using code-based animation.
 
 ### 🌐 Personal Portfolio
 My personal developer portfolio site, built with vanilla HTML, CSS, and JavaScript.
