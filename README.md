@@ -38,13 +38,6 @@ building real projects, and exploring Artificial Intelligence.
 
 ## 🚀 Projects
 
-### 🐍 Python Learning Lab
-A growing collection of Python practice exercises and mini-projects, built while learning the language from scratch.
-
-
-### 🌐 Personal Portfolio
-My personal developer portfolio site, built with vanilla HTML, CSS, and JavaScript.
-[View Repo](https://github.com/hamoali-dev/hamoali-portfolio)
 
 ### 🛒 KORIV
 Oversized t-shirt e-commerce brand built with Shopify.
